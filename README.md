@@ -32,13 +32,14 @@ We added NSMC files to our repo since it is easier for cloning and replication, 
 ### For the utilization of the dataset 3i4K, cite the following:
 ```
 @article{cho2018speech,
-	title={Speech Intention Understanding in a Head-final Language: A Disambiguation Utilizing Intonation-dependency},
+	title={Speech Intention Understanding in a Head-final Language: 
+	A Disambiguation Utilizing Intonation-dependency},
 	author={Cho, Won Ik and Lee, Hyeon Seung and Yoon, Ji Won and Kim, Seok Min and Kim, Nam Soo},
 	journal={arXiv preprint arXiv:1811.04231},
 	year={2018}
 }
 ```
-### For the utilization of the [word vector dictionary](https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor), cite the following:
+### For the utilization of the word vector dictionary, cite the following:
 ```
 @article{cho2018real,
 	title={Real-time Automatic Word Segmentation for User-generated Text},
@@ -55,4 +56,4 @@ We added NSMC files to our repo since it is easier for cloning and replication, 
   journal={arXiv preprint arXiv:1905.13656},
   year={2019}
 }
-'''
+```
