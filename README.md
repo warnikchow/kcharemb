@@ -8,11 +8,11 @@ numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1<br/>
 
 ## Datasets
 ### NMSC
-[Naver Sentiment Movie Corpus](https://github.com/e9t/nsmc)
+[Naver Sentiment Movie Corpus](https://github.com/e9t/nsmc)<br/> 
 Train:Test ratio is 3:1.<br/> 
 Train set is again split into train:validation set in ratio 9:1.
 ### 3i4K
-[Intonation-aided Intention Identification for Korean](https://github.com/warnikchow/3i4k)
+[Intonation-aided Intention Identification for Korean](https://github.com/warnikchow/3i4k)<br/> 
 Train:Test ratio is 9:1.<br/> 
 Train set is again split into train:validation set in ratio 9:1.
 
