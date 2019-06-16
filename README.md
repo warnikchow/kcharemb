@@ -9,8 +9,12 @@ numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1<br/>
 ## Datasets
 ### NMSC
 [Naver Sentiment Movie Corpus](https://github.com/e9t/nsmc)
+Train:Test ratio is 3:1.<br/> 
+Train set is again split into train:validation set in ratio 9:1.
 ### 3i4K
 [Intonation-aided Intention Identification for Korean](https://github.com/warnikchow/3i4k)
+Train:Test ratio is 9:1.<br/> 
+Train set is again split into train:validation set in ratio 9:1.
 
 ## Character-level representations
 <image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig1.png" width="600"><br/>
@@ -27,6 +31,9 @@ numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1<br/>
 
 ### DISCLAIMER
 We added NSMC files to our repo since it is easier for cloning and replication, and most of all the data is open to the public domain. The files will be removed if any problem comes up.
+
+### ACKNOWLEDGEMENT
+The authors appreciate Yong Gyu Park for informing us the points that require improvement.
 
 ## Citation
 ### For the utilization of the dataset 3i4K, cite the following:
@@ -51,9 +58,9 @@ We added NSMC files to our repo since it is easier for cloning and replication, 
 ### For the utilization of the result and the code, cite the following:
 ```
 @article{cho2019investigating,
-  title={Investigating an Effective Character-level Embedding in Korean Sentence Classification},
-  author={Cho, Won Ik and Kim, Seok Min and Kim, Nam Soo},
-  journal={arXiv preprint arXiv:1905.13656},
-  year={2019}
+	title={Investigating an Effective Character-level Embedding in Korean Sentence Classification},
+	author={Cho, Won Ik and Kim, Seok Min and Kim, Nam Soo},
+	journal={arXiv preprint arXiv:1905.13656},
+	year={2019}
 }
 ```
