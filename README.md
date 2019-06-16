@@ -33,7 +33,7 @@ Train set is again split into train:validation set in ratio 9:1.
 We added NSMC files to our repo since it is easier for cloning and replication, and most of all the data is open to the public domain. The files will be removed if any problem comes up.
 
 ### ACKNOWLEDGEMENT
-The authors appreciate Yong Gyu Park for informing us the points that require improvement.
+The authors appreciate Yong Gyu Park for informing us the points that require improvement in [the previous experiment](https://github.com/warnikchow/dlk2nlp#8-character-embedding).
 
 ## Citation
 ### For the utilization of the dataset 3i4K, cite the following:
