@@ -2,7 +2,8 @@
 Tutorial for character-level embeddings in Korean sentence classification
 
 ## Requirements
-fasttext==0.8.3 (else gensim==3.6.0), hgtk==0.1.3, Keras==2.1.2, numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1
+fasttext==0.8.3 (else gensim==3.6.0), hgtk==0.1.3, Keras==2.1.2,<br/> 
+numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1<br/>
 **Currently available for python 3.5 and upper version is in implementation**
 
 ## Datasets
@@ -12,7 +13,7 @@ fasttext==0.8.3 (else gensim==3.6.0), hgtk==0.1.3, Keras==2.1.2, numpy==1.14.3, 
 [Intonation-aided Intention Identification for Korean](https://github.com/warnikchow/3i4k)
 
 ## Character-level representations
-<image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig1.png" width="500"><br/>
+<image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig1.png" width="600"><br/>
 
 ## Word vector for *Cho2018a-Dense*
 [Pretrained 100dim fastText vector](https://drive.google.com/open?id=1jHbjOcnaLourFzNuP47yGQVhBTq6Wgor)
@@ -20,7 +21,7 @@ fasttext==0.8.3 (else gensim==3.6.0), hgtk==0.1.3, Keras==2.1.2, numpy==1.14.3, 
 * This can be replaced with whatever model the user employs, but it requires an additional training.
 
 ## Result
-<image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig2.PNG" width="500"><br/>
+<image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig2.PNG" width="600"><br/>
 
 ## The analysis can be found in [the paper](https://arxiv.org/abs/1905.13656)!
 
