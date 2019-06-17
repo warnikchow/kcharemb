@@ -27,7 +27,8 @@ Train set is again split into train:validation set in ratio 9:1.
 ## Result
 <image src="https://github.com/warnikchow/kcharemb/blob/master/images/fig2.PNG" width="600"><br/>
 
-### The analysis can be found in [the paper](https://arxiv.org/abs/1905.13656)!
+### The analysis can be found in [the paper](https://arxiv.org/abs/1905.13656)! <br/>
+(Will be updated in early July)
 
 ### DISCLAIMER
 We added NSMC files to our repo since it is easier for cloning and replication, and most of all the data is open to the public domain. The files will be removed if any problem comes up.
