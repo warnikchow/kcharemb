@@ -6,6 +6,9 @@ fasttext==0.8.3 (else gensim==3.6.0), hgtk==0.1.3, Keras==2.1.2,<br/>
 numpy==1.14.3, scikit-learn==0.19.1, tensorflow-gpu==1.4.1<br/>
 **Currently available for python 3.5 and upper version is in implementation**
 
+## HowTo
+Git clone and proceed with *val_tutorial.py*, line by line.
+
 ## Datasets
 ### NMSC
 [Naver Sentiment Movie Corpus](https://github.com/e9t/nsmc)<br/> 
